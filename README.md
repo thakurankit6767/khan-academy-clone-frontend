@@ -11,7 +11,7 @@ A one week project for cloning the **khanacademy.org** website.
 
 - Bishal Samanta [@bishal-Samanta](https://github.com/DhruvBhawsar)
 
-- Ankit Thakur [@Ankit-Thakur](https://github.com/DhruvBhawsar)
+- Ankit Thakur [@Ankit-Thakur](https://github.com/thakurankit6767)
 
 - N Hari Kishore Reddy [@N-Hari-Kishore-Reddy](https://github.com/nHari9)
 
